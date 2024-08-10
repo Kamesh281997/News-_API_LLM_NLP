@@ -2,8 +2,7 @@ pandas
 numpy
 streamlit
 python-dotenv
-<<<<<<< HEAD
 newsapi-python
-=======
+fastapi
+uvicorn
 
->>>>>>> origin/feature
